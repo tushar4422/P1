@@ -1,0 +1,46 @@
+body{
+  background-image: url("../bg-desktop.svg");
+  color : white;
+  background-color: #6E3CBC;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.td{
+  padding-top: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.img-padding{
+  padding-top: 50px;
+  padding-right: 50px;
+  float: left;
+}
+
+.yaas1{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.ps1{
+  padding-right: 100px;
+  padding-top: 60px;
+  padding-bottom: 20px;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #6867AC;
+  font-size: 18px;
+  background: white;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #CE7BB0;
+  text-decoration: none;
+  color: white;
+}
